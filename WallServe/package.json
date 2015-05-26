@@ -1,0 +1,10 @@
+{
+  "name": "WallServe",
+  "version": "0.0.0",
+  "description": "WallServe",
+  "main": "app.js",
+  "author": {
+    "name": "2DA",
+    "email": ""
+  }
+}
