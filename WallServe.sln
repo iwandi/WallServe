@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WallServe", "WallServe\WallServe.njsproj", "{EC2A982D-2940-4BD6-A1D6-FB6B8F620293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallSlave", "WallSlave\WallSlave.csproj", "{EB625564-A0AD-4A94-B204-FE62F53BC363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2A982D-2940-4BD6-A1D6-FB6B8F620293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2A982D-2940-4BD6-A1D6-FB6B8F620293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2A982D-2940-4BD6-A1D6-FB6B8F620293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2A982D-2940-4BD6-A1D6-FB6B8F620293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB625564-A0AD-4A94-B204-FE62F53BC363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB625564-A0AD-4A94-B204-FE62F53BC363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB625564-A0AD-4A94-B204-FE62F53BC363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB625564-A0AD-4A94-B204-FE62F53BC363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
